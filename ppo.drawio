@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T11:47:34.333Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="V34MaLR-mxxTt77oDE9Y" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T11:47:46.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="_8ihO82ztPTVHR_kyZ6G" version="22.0.8" type="github">
   <diagram name="Page-1" id="JyTczidy37ucf90NlKJn">
     <mxGraphModel dx="786" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,8 +127,8 @@
             <mxPoint x="780" y="477" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tw779XU5XbZeTqXnY-Wy-44" value="Categorical&lt;br&gt;按概率取动作" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="450" width="80" height="30" as="geometry" />
+        <mxCell id="Tw779XU5XbZeTqXnY-Wy-44" value="Categorical" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="450" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tw779XU5XbZeTqXnY-Wy-45" value="entropy(64,)&lt;br&gt;log_prob(64,)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="460" width="60" height="30" as="geometry" />
