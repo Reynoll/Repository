@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T05:49:28.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="d1Bokkn49qomp15ndNs0" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T06:02:37.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="-jBewP4YinO2VgbnJ8nO" version="22.0.8" type="github">
   <diagram name="Page-1" id="JyTczidy37ucf90NlKJn">
     <mxGraphModel dx="786" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Tw779XU5XbZeTqXnY-Wy-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="165" width="550" height="175" as="geometry" />
+        </mxCell>
         <mxCell id="L-33CMSW8x2mSj1FouU--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="230" width="170" height="10" as="geometry" />
         </mxCell>
@@ -49,8 +52,23 @@
         <mxCell id="Tw779XU5XbZeTqXnY-Wy-2" value="proba_dist_net(Linear)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tw779XU5XbZeTqXnY-Wy-3" value="value" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="220" width="60" height="30" as="geometry" />
+        <mxCell id="Tw779XU5XbZeTqXnY-Wy-3" value="mean_actions&lt;br&gt;(action_dim)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tw779XU5XbZeTqXnY-Wy-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="237" as="sourcePoint" />
+            <mxPoint x="780" y="237" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tw779XU5XbZeTqXnY-Wy-5" value="Categorical&lt;br&gt;按概率取动作" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tw779XU5XbZeTqXnY-Wy-6" value="action&lt;br&gt;log_prob" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tw779XU5XbZeTqXnY-Wy-8" value="policy" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="160" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
